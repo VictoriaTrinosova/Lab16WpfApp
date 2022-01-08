@@ -22,7 +22,7 @@
                             <DoubleAnimationUsingKeyFrames
                                 Storyboard.TargetProperty="(Canvas.Top)"
                                 Duration="0:0:3"
-                                AccelerationRatio="1"
+                                DecelerationRatio="1"
                                 AutoReverse="True"
                                 RepeatBehavior="Forever">
                                 <LinearDoubleKeyFrame KeyTime="0%" Value="340"/>
